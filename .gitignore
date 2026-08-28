@@ -1,1 +1,8 @@
 .ipynb_checkpoints
+
+# PEARL netCDFs - 85 MB, kept local per the README's "do not put large
+# datasets on GitHub". Keep your own copy in data/ so relative paths work.
+data/*.nc
+
+# work in progress, deliberately not shared yet
+contributor_folders/kaira/gapfill.py
